@@ -1,0 +1,13 @@
+.dice-outline {
+  height: 11vh;
+  width: 11vh;
+  border-radius: 5px;
+  margin: 5vh;
+  background-color: black;
+  float: center;
+}
+.dice-outline h4 {
+  font-size: 8vh;
+  color: #FEFFCF;
+  margin-right: 1vh;
+}

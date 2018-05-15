@@ -30,12 +30,12 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-#Application Information
+##Application Information
 
-##Technology Justification
+###Technology Justification
 Requirements for this project stated `The application may be written in a relevant platform and language of your choice.`  I was aware that the company is interested in upgrading their existing AngularJS framework to Angular.IO vX.X.X in the near future, and also I lacked experience with this framework.  I decided to write the application in this framework as a demonstration of my enthusiasm for learning new technologies, as well as forward thinking should I find myself upgrading or building Angular.io X.X.X applications in the near future.
 
-##Feature Descriptions
+###Feature Descriptions
 
 ###Variable Dice Size
 I decided to allow variable, but controlled, dice sizes.  The sizes chosen (4, 6, 8, 12, 20) were chosen because those five dice sizes are the five [Platonic Solids](https://en.wikipedia.org/wiki/Platonic_solid), which are regular polyhedrons that are equiprobable in outcomes.  These are not the only possible equiprobable dice, just the most elegant.  6 sides is the default.
